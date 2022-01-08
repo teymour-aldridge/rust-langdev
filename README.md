@@ -282,11 +282,14 @@
 - [`cargo-fuzz`](https://crates.io/crates/cargo-fuzz) A cargo subcommand for using libFuzzer
 - [`libfuzzer-sys`](https://crates.io/crates/libfuzzer-sys) Barebones wrapper around LLVM's libFuzzer runtime library
 - [`wasm-smith`](https://crates.io/crates/wasm-smith) A WebAssembly test case generator
+- [`fuzzcheck`](https://crates.io/crates/fuzzcheck) A coverage-guided evolutionary fuzzer that mutates Rust types in-place.
+- [`libafl`](https://github.com/AFLplusplus/LibAFL) A collection of fuzzers.
 
 ### Fuzzing Resources
 
 - [Fuzzing a parser](https://arzg.github.io/lang/20/)
 - [Rust Fuzz Book](https://rust-fuzz.github.io/book/cargo-fuzz.html)
+- [The Fuzzcheck guide](https://fuzzcheck.neocities.org/)
 
 ## Graphs
 
